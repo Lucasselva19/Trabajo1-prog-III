@@ -20,3 +20,7 @@ table {
 h3 strong{
     background-color: #00FFFF;
 }
+
+img{
+    border-radius: 70%;
+}
