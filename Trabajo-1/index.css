@@ -25,4 +25,5 @@ h3 strong{
 
 img{
     border-radius: 70%;
+    border: 3px solid black;
 }
