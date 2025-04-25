@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: antiquewhite;
+    width: 25%;
+}
+
+#importante{
+    color: #34495E;
+}
+p,
+table {
+    width: 30%;
+}
+
+h3 strong{
+    background-color: #00FFFF;
+}
