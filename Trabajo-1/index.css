@@ -3,7 +3,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header{
+header,
+p{
     background-color: antiquewhite;
     width: 25%;
 }
@@ -12,8 +13,9 @@ header{
     color: #34495E;
 }
 
-p,
 table {
+    border: 1px solid black;
+    border-collapse: collapse;
     width: 30%;
 }
 
